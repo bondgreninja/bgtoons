@@ -46,7 +46,7 @@ function NavBar() {
               fontSize: '28px',
             }}
           >
-            Mohit Sojitra
+            Sunil Gupta
           </p>
         </Navbar.Brand>
         <Navbar.Toggle
