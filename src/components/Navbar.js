@@ -46,7 +46,7 @@ function NavBar() {
               fontSize: '28px',
             }}
           >
-            Sunil Gupta
+            Bond Greninja
           </p>
         </Navbar.Brand>
         <Navbar.Toggle
@@ -80,7 +80,7 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="/project"
+                to="#"
                 onClick={() => updateExpanded(false)}
               >
                 <AiOutlineFundProjectionScreen style={{marginBottom: '2px'}} />{' '}
@@ -100,7 +100,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://instagram.com/sk.gupta507/"
+                href="https://instagram.com/bondgreninja/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -110,7 +110,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/skgupta507/skgupta"
+                href="https://github.com/bondgreninja/bondgreninja"
                 target="_blank"
                 className="fork-btn-inner"
               >
