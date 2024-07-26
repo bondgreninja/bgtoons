@@ -10,16 +10,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Sunil Gupta</h3>
+          <h3>Designed and Developed by Bond Greninja</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SK Gupta</h3>
+          <h3>Copyright © {year} BondGreninja</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/skgupta507"
+                href="https://github.com/bondgreninja"
                 style={{color: 'white'}}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -30,7 +30,7 @@ function Footer() {
 
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/sunil-gupta-798914144/"
+                href="https://www.linkedin.com/in/bondgreninja"
                 style={{color: 'white'}}
                 target="_blank"
                 rel="noopener noreferrer"
